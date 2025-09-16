@@ -1,4 +1,4 @@
-# Dolo 🤖
+# DOLO: Declarative Orchestration of LangGraph Agents 🤖
 
 This project is a Python implementation of a supervised "graph of graphs" using **LangGraph**. It creates a multi-agent system where specialized AI agents collaborate to perform complex tasks across the entire software lifecycle, from initial planning and development to production incident response.
 
